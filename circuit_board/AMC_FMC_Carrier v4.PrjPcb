@@ -904,6 +904,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document52]
+DocumentPath=C:\Users\Tomek\AppData\Local\Temp\Revisions\[Revision ebfa4c83fe3d1d47c7a49fb31ecc7ace69e92e4b] M-LVDS PHY.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=3DD6BD3E-1835-47DD-AC68-7A6549BDE1C9
 Description=Default
