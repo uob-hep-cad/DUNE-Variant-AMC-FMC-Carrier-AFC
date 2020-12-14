@@ -361,6 +361,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GUNDWXDM
 
 [Document20]
+DocumentPath=Clock_management.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
 DocumentPath=SUP_2.5_FMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LEZZYXGH
 
-[Document21]
+[Document22]
 DocumentPath=UI_mon.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAZVDBJY
 
-[Document22]
+[Document23]
 DocumentPath=RTCE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHFBMSFG
 
-[Document23]
+[Document24]
 DocumentPath=FMC_connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SUVAILYX
 
-[Document24]
+[Document25]
 DocumentPath=8V54816A_SUPPLY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYVLTUYN
 
-[Document25]
+[Document26]
 DocumentPath=USB_SERIAL_QUAD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFLICSIX
 
-[Document26]
+[Document27]
 DocumentPath=I2C_MUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQRLQULY
 
-[Document27]
+[Document28]
 DocumentPath=Oscillators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNNIKIHM
 
-[Document28]
+[Document29]
+DocumentPath=Oscillators.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document30]
 DocumentPath=FMC_HPC2_RTM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +547,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDUQKIKU
 
-[Document29]
+[Document31]
+DocumentPath=FMC_HPC2_RTM.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
 DocumentPath=AMC_FMC_Carrier_v4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,25 +581,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXSBJHVC
 
-[Document30]
+[Document33]
 DocumentPath=AFCv4.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document31]
-DocumentPath=Oscillators.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -569,7 +603,7 @@ UniqueID=3DD6BD3E-1835-47DD-AC68-7A6549BDE1C9
 Description=FMC
 AllowFabrication=0
 ParameterCount=0
-VariationCount=107
+VariationCount=166
 Variation1=Designator=R128|UniqueId=\BWXHQGCB\ZYNHPGUL|Kind=1|AlternatePart= 
 Variation2=Designator=C333|UniqueId=\BWXHQGCB\LSPUQIJW\IHRHTYIJ|Kind=1|AlternatePart= 
 Variation3=Designator=C332|UniqueId=\BWXHQGCB\LSPUQIJW\UACYWPYS|Kind=1|AlternatePart= 
@@ -664,9 +698,7 @@ Variation91=Designator=R156|UniqueId=\TDQDDSLN\OGSVRKNW|Kind=1|AlternatePart=
 Variation92=Designator=R292|UniqueId=\TDQDDSLN\EOTPYUBM|Kind=1|AlternatePart= 
 Variation93=Designator=R29|UniqueId=\TDQDDSLN\HDZUQQZP|Kind=1|AlternatePart= 
 Variation94=Designator=R27|UniqueId=\TDQDDSLN\UTEZQUJC|Kind=1|AlternatePart= 
-Variation95=Designator=R224|UniqueId=\TDQDDSLN\PFRDSGWP\XIEPWOYF|Kind=0|AlternatePart= 
-Variation96=Designator=R383|UniqueId=\TDQDDSLN\PFRDSGWP\EQHKHIMB|Kind=0|AlternatePart= 
-Variation97=Designator=OSC1|UniqueId=\TDQDDSLN\PFRDSGWP\PNBGLUOU|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\OneDrive - Politechnika Warszawska\Projekty\ZZ_Libs\CernLib\ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=False
+Variation95=Designator=OSC1|UniqueId=\TDQDDSLN\PFRDSGWP\PNBGLUOU|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\OneDrive - Politechnika Warszawska\Projekty\ZZ_Libs\CernLib\ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=OSC1
 ParamVariation2=ParameterName=CreateDate|VariantValue=27.11.2019
@@ -725,16 +757,77 @@ ParamVariation28=ParameterName=SMD|VariantValue=Yes
 ParamDesignator28=OSC1
 ParamVariation29=ParameterName=Socket|VariantValue=No
 ParamDesignator29=OSC1
-Variation98=Designator=OSC2|UniqueId=\TDQDDSLN\PFRDSGWP\SIQXMMXV|Kind=1|AlternatePart= 
-Variation99=Designator=R384|UniqueId=\TDQDDSLN\PFRDSGWP\VMWPFBIJ|Kind=1|AlternatePart= 
-Variation100=Designator=C845|UniqueId=\TDQDDSLN\PFRDSGWP\XCWOLWNY|Kind=1|AlternatePart= 
-Variation101=Designator=C887|UniqueId=\TDQDDSLN\PFRDSGWP\QWHIGDAN|Kind=1|AlternatePart= 
-Variation102=Designator=R352|UniqueId=\TDQDDSLN\PFRDSGWP\XKXODBUV|Kind=1|AlternatePart= 
-Variation103=Designator=R218|UniqueId=\TDQDDSLN\PFRDSGWP\EKNQOYGP|Kind=1|AlternatePart= 
-Variation104=Designator=C422|UniqueId=\TDQDDSLN\PFRDSGWP\FOGRHXIK|Kind=1|AlternatePart= 
-Variation105=Designator=C425|UniqueId=\TDQDDSLN\PFRDSGWP\MLNXDNSW|Kind=1|AlternatePart= 
-Variation106=Designator=R353|UniqueId=\TDQDDSLN\PFRDSGWP\DYRUOFAD|Kind=1|AlternatePart= 
-Variation107=Designator=R379|UniqueId=\TDQDDSLN\PFRDSGWP\QYNBHCUQ|Kind=0|AlternatePart= 
+Variation96=Designator=OSC2|UniqueId=\TDQDDSLN\PFRDSGWP\SIQXMMXV|Kind=1|AlternatePart= 
+Variation97=Designator=R384|UniqueId=\TDQDDSLN\PFRDSGWP\VMWPFBIJ|Kind=1|AlternatePart= 
+Variation98=Designator=C845|UniqueId=\TDQDDSLN\PFRDSGWP\XCWOLWNY|Kind=1|AlternatePart= 
+Variation99=Designator=C887|UniqueId=\TDQDDSLN\PFRDSGWP\QWHIGDAN|Kind=1|AlternatePart= 
+Variation100=Designator=R352|UniqueId=\TDQDDSLN\PFRDSGWP\XKXODBUV|Kind=1|AlternatePart= 
+Variation101=Designator=R218|UniqueId=\TDQDDSLN\PFRDSGWP\EKNQOYGP|Kind=1|AlternatePart= 
+Variation102=Designator=C422|UniqueId=\TDQDDSLN\PFRDSGWP\FOGRHXIK|Kind=1|AlternatePart= 
+Variation103=Designator=C425|UniqueId=\TDQDDSLN\PFRDSGWP\MLNXDNSW|Kind=1|AlternatePart= 
+Variation104=Designator=R353|UniqueId=\TDQDDSLN\PFRDSGWP\DYRUOFAD|Kind=1|AlternatePart= 
+Variation105=Designator=R51|UniqueId=\BWXHQGCB\EOXJXCJA\MAWHTESW|Kind=1|AlternatePart= 
+Variation106=Designator=R549|UniqueId=\BWXHQGCB\EOXJXCJA\GMSHAWBN|Kind=1|AlternatePart= 
+Variation107=Designator=R548|UniqueId=\BWXHQGCB\EOXJXCJA\HVPXXDAC|Kind=1|AlternatePart= 
+Variation108=Designator=R546|UniqueId=\BWXHQGCB\EOXJXCJA\BHMAFIXP|Kind=1|AlternatePart= 
+Variation109=Designator=R544|UniqueId=\BWXHQGCB\EOXJXCJA\EWHFZXAD|Kind=1|AlternatePart= 
+Variation110=Designator=R539|UniqueId=\BWXHQGCB\EOXJXCJA\WHWMLSGW|Kind=1|AlternatePart= 
+Variation111=Designator=R538|UniqueId=\BWXHQGCB\EOXJXCJA\IABLHSGF|Kind=1|AlternatePart= 
+Variation112=Designator=R536|UniqueId=\BWXHQGCB\EOXJXCJA\YTSIUYEA|Kind=1|AlternatePart= 
+Variation113=Designator=R535|UniqueId=\BWXHQGCB\EOXJXCJA\PKJGYSGT|Kind=1|AlternatePart= 
+Variation114=Designator=R534|UniqueId=\BWXHQGCB\EOXJXCJA\HEZYVYHR|Kind=1|AlternatePart= 
+Variation115=Designator=R532|UniqueId=\BWXHQGCB\EOXJXCJA\ICKFAJUT|Kind=1|AlternatePart= 
+Variation116=Designator=R530|UniqueId=\BWXHQGCB\EOXJXCJA\TYDEHPWE|Kind=1|AlternatePart= 
+Variation117=Designator=R528|UniqueId=\BWXHQGCB\EOXJXCJA\SGBGADPR|Kind=1|AlternatePart= 
+Variation118=Designator=R526|UniqueId=\BWXHQGCB\EOXJXCJA\DHQLJLJJ|Kind=1|AlternatePart= 
+Variation119=Designator=R524|UniqueId=\BWXHQGCB\EOXJXCJA\ASJAVTZH|Kind=1|AlternatePart= 
+Variation120=Designator=R522|UniqueId=\BWXHQGCB\EOXJXCJA\CODQLBKI|Kind=1|AlternatePart= 
+Variation121=Designator=R520|UniqueId=\BWXHQGCB\EOXJXCJA\ZLMISDBJ|Kind=1|AlternatePart= 
+Variation122=Designator=R518|UniqueId=\BWXHQGCB\EOXJXCJA\HSPXUHSI|Kind=1|AlternatePart= 
+Variation123=Designator=R516|UniqueId=\BWXHQGCB\EOXJXCJA\DYUYQJJC|Kind=1|AlternatePart= 
+Variation124=Designator=R514|UniqueId=\BWXHQGCB\EOXJXCJA\CBLSUWRS|Kind=1|AlternatePart= 
+Variation125=Designator=R512|UniqueId=\BWXHQGCB\EOXJXCJA\NSBHZCXY|Kind=1|AlternatePart= 
+Variation126=Designator=R510|UniqueId=\BWXHQGCB\EOXJXCJA\AKUYBOGC|Kind=1|AlternatePart= 
+Variation127=Designator=R508|UniqueId=\BWXHQGCB\EOXJXCJA\FGNCTCZC|Kind=1|AlternatePart= 
+Variation128=Designator=R506|UniqueId=\BWXHQGCB\EOXJXCJA\UZJGNJQJ|Kind=1|AlternatePart= 
+Variation129=Designator=R504|UniqueId=\BWXHQGCB\EOXJXCJA\WRWTBTXQ|Kind=1|AlternatePart= 
+Variation130=Designator=R502|UniqueId=\BWXHQGCB\EOXJXCJA\KJPJLYPB|Kind=1|AlternatePart= 
+Variation131=Designator=R500|UniqueId=\BWXHQGCB\EOXJXCJA\WMDJPFAI|Kind=1|AlternatePart= 
+Variation132=Designator=R498|UniqueId=\BWXHQGCB\EOXJXCJA\QAMXJUVK|Kind=1|AlternatePart= 
+Variation133=Designator=R496|UniqueId=\BWXHQGCB\EOXJXCJA\VPACVMCJ|Kind=1|AlternatePart= 
+Variation134=Designator=R494|UniqueId=\BWXHQGCB\EOXJXCJA\PAFUWBWC|Kind=1|AlternatePart= 
+Variation135=Designator=R492|UniqueId=\BWXHQGCB\EOXJXCJA\EIFBZPOO|Kind=1|AlternatePart= 
+Variation136=Designator=R490|UniqueId=\BWXHQGCB\EOXJXCJA\HHWIJQTJ|Kind=1|AlternatePart= 
+Variation137=Designator=R488|UniqueId=\BWXHQGCB\EOXJXCJA\CYRPGTHK|Kind=1|AlternatePart= 
+Variation138=Designator=R486|UniqueId=\BWXHQGCB\EOXJXCJA\WFBRHXXH|Kind=1|AlternatePart= 
+Variation139=Designator=R484|UniqueId=\BWXHQGCB\EOXJXCJA\QKCPPYJW|Kind=1|AlternatePart= 
+Variation140=Designator=R482|UniqueId=\BWXHQGCB\EOXJXCJA\ITEIXQCG|Kind=1|AlternatePart= 
+Variation141=Designator=R480|UniqueId=\BWXHQGCB\EOXJXCJA\TGRJZLVR|Kind=1|AlternatePart= 
+Variation142=Designator=R478|UniqueId=\BWXHQGCB\EOXJXCJA\IWCBYSQU|Kind=1|AlternatePart= 
+Variation143=Designator=R476|UniqueId=\BWXHQGCB\EOXJXCJA\ZMNCLQKJ|Kind=1|AlternatePart= 
+Variation144=Designator=R450|UniqueId=\BWXHQGCB\EOXJXCJA\BKCJAQNW|Kind=1|AlternatePart= 
+Variation145=Designator=R448|UniqueId=\BWXHQGCB\EOXJXCJA\CQXQUQCQ|Kind=1|AlternatePart= 
+Variation146=Designator=R442|UniqueId=\BWXHQGCB\EOXJXCJA\LPPGSESU|Kind=1|AlternatePart= 
+Variation147=Designator=R438|UniqueId=\BWXHQGCB\EOXJXCJA\DHHKYRPR|Kind=1|AlternatePart= 
+Variation148=Designator=R390|UniqueId=\BWXHQGCB\EOXJXCJA\QNWYZAFT|Kind=1|AlternatePart= 
+Variation149=Designator=R386|UniqueId=\BWXHQGCB\EOXJXCJA\VODZYBLD|Kind=1|AlternatePart= 
+Variation150=Designator=R378|UniqueId=\BWXHQGCB\EOXJXCJA\CKUCWOZB|Kind=1|AlternatePart= 
+Variation151=Designator=R376|UniqueId=\BWXHQGCB\EOXJXCJA\NPANSUXZ|Kind=1|AlternatePart= 
+Variation152=Designator=R374|UniqueId=\BWXHQGCB\EOXJXCJA\HVMEPPVC|Kind=1|AlternatePart= 
+Variation153=Designator=R372|UniqueId=\BWXHQGCB\EOXJXCJA\OKITMXBP|Kind=1|AlternatePart= 
+Variation154=Designator=R370|UniqueId=\BWXHQGCB\EOXJXCJA\TOGLSLUW|Kind=1|AlternatePart= 
+Variation155=Designator=R368|UniqueId=\BWXHQGCB\EOXJXCJA\ZUNOHELD|Kind=1|AlternatePart= 
+Variation156=Designator=R366|UniqueId=\BWXHQGCB\EOXJXCJA\WGIJXFEV|Kind=1|AlternatePart= 
+Variation157=Designator=R364|UniqueId=\BWXHQGCB\EOXJXCJA\ISASXICZ|Kind=1|AlternatePart= 
+Variation158=Designator=R362|UniqueId=\BWXHQGCB\EOXJXCJA\ECZFLBRO|Kind=1|AlternatePart= 
+Variation159=Designator=R360|UniqueId=\BWXHQGCB\EOXJXCJA\NZBLBCKQ|Kind=1|AlternatePart= 
+Variation160=Designator=R358|UniqueId=\BWXHQGCB\EOXJXCJA\COIGUKAR|Kind=1|AlternatePart= 
+Variation161=Designator=R252|UniqueId=\BWXHQGCB\EOXJXCJA\PCGXMJSD|Kind=1|AlternatePart= 
+Variation162=Designator=R250|UniqueId=\BWXHQGCB\EOXJXCJA\VMDCIQPO|Kind=1|AlternatePart= 
+Variation163=Designator=R249|UniqueId=\BWXHQGCB\EOXJXCJA\VHNWPJQO|Kind=1|AlternatePart= 
+Variation164=Designator=R245|UniqueId=\BWXHQGCB\EOXJXCJA\ZIEEORGA|Kind=1|AlternatePart= 
+Variation165=Designator=R216|UniqueId=\BWXHQGCB\EOXJXCJA\AWMKOYRM|Kind=1|AlternatePart= 
+Variation166=Designator=R215|UniqueId=\BWXHQGCB\EOXJXCJA\MELIDGAF|Kind=1|AlternatePart= 
 ParamVariationCount=29
 
 [ProjectVariant2]
@@ -742,7 +835,7 @@ UniqueID=9240E72B-1898-4515-A425-0CFCD8DD6B01
 Description=RTM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=99
+VariationCount=117
 Variation1=Designator=R128|UniqueId=\BWXHQGCB\ZYNHPGUL|Kind=1|AlternatePart= 
 Variation2=Designator=C333|UniqueId=\BWXHQGCB\LSPUQIJW\IHRHTYIJ|Kind=1|AlternatePart= 
 Variation3=Designator=C332|UniqueId=\BWXHQGCB\LSPUQIJW\UACYWPYS|Kind=1|AlternatePart= 
@@ -878,6 +971,24 @@ Variation96=Designator=C633|UniqueId=\BWXHQGCB\LSPUQIJW\JMRDILXI|Kind=1|Alternat
 Variation97=Designator=C192|UniqueId=\BWXHQGCB\LSPUQIJW\YTBSNVUF|Kind=1|AlternatePart= 
 Variation98=Designator=C194|UniqueId=\BWXHQGCB\LSPUQIJW\BOYQGGOP|Kind=1|AlternatePart= 
 Variation99=Designator=OSC4|UniqueId=\TDQDDSLN\PFRDSGWP\FGWWFLQF|Kind=1|AlternatePart= 
+Variation100=Designator=R243|UniqueId=\BWXHQGCB\EOXJXCJA\VKHDAMGZ|Kind=1|AlternatePart= 
+Variation101=Designator=R525|UniqueId=\BWXHQGCB\EOXJXCJA\RTYYUPZU|Kind=1|AlternatePart= 
+Variation102=Designator=R529|UniqueId=\BWXHQGCB\EOXJXCJA\LWYLPRRW|Kind=1|AlternatePart= 
+Variation103=Designator=R527|UniqueId=\BWXHQGCB\EOXJXCJA\GSNAAHVP|Kind=1|AlternatePart= 
+Variation104=Designator=R531|UniqueId=\BWXHQGCB\EOXJXCJA\KSKKPGQP|Kind=1|AlternatePart= 
+Variation105=Designator=R547|UniqueId=\BWXHQGCB\EOXJXCJA\JOQIWYNX|Kind=1|AlternatePart= 
+Variation106=Designator=R545|UniqueId=\BWXHQGCB\EOXJXCJA\WNTNEGRM|Kind=1|AlternatePart= 
+Variation107=Designator=R537|UniqueId=\BWXHQGCB\EOXJXCJA\FFWRUTXO|Kind=1|AlternatePart= 
+Variation108=Designator=R533|UniqueId=\BWXHQGCB\EOXJXCJA\TTADQCCA|Kind=1|AlternatePart= 
+Variation109=Designator=R251|UniqueId=\BWXHQGCB\EOXJXCJA\CKKLVBHQ|Kind=1|AlternatePart= 
+Variation110=Designator=R483|UniqueId=\BWXHQGCB\EOXJXCJA\KZXCULUE|Kind=1|AlternatePart= 
+Variation111=Designator=R479|UniqueId=\BWXHQGCB\EOXJXCJA\YTDZUOZE|Kind=1|AlternatePart= 
+Variation112=Designator=R475|UniqueId=\BWXHQGCB\EOXJXCJA\HIQFMECU|Kind=1|AlternatePart= 
+Variation113=Designator=R445|UniqueId=\BWXHQGCB\EOXJXCJA\GINPGVCD|Kind=1|AlternatePart= 
+Variation114=Designator=R385|UniqueId=\BWXHQGCB\EOXJXCJA\IIUVNDCG|Kind=1|AlternatePart= 
+Variation115=Designator=R375|UniqueId=\BWXHQGCB\EOXJXCJA\JEKFZPEN|Kind=1|AlternatePart= 
+Variation116=Designator=R363|UniqueId=\BWXHQGCB\EOXJXCJA\WUGULVYP|Kind=1|AlternatePart= 
+Variation117=Designator=R359|UniqueId=\BWXHQGCB\EOXJXCJA\HXBEXYVX|Kind=1|AlternatePart= 
 ParamVariationCount=18
 
 [GeneratedDocument1]
