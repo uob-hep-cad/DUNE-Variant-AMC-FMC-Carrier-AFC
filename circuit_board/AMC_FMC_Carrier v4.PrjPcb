@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=1
 PowerPortNamesTakePriority=1
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -71,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LCMUBRUK
+DocumentUniqueId=LAIQXJEV
 
 [Document3]
 DocumentPath=FPGA.SchDoc
@@ -911,7 +912,7 @@ UniqueID=3DD6BD3E-1835-47DD-AC68-7A6549BDE1C9
 Description=FMC
 AllowFabrication=0
 ParameterCount=0
-VariationCount=166
+VariationCount=175
 Variation1=Designator=R128|UniqueId=\BWXHQGCB\ZYNHPGUL|Kind=1|AlternatePart= 
 Variation2=Designator=C837|UniqueId=\BWXHQGCB\LSPUQIJW\WVKHVOHC|Kind=1|AlternatePart= 
 Variation3=Designator=C836|UniqueId=\BWXHQGCB\LSPUQIJW\HUJTJWYH|Kind=1|AlternatePart= 
@@ -1136,6 +1137,15 @@ Variation163=Designator=R354|UniqueId=\TDQDDSLN\XTVGMOLJ|Kind=1|AlternatePart=
 Variation164=Designator=R355|UniqueId=\TDQDDSLN\JQDSYRUI|Kind=1|AlternatePart= 
 Variation165=Designator=R356|UniqueId=\TDQDDSLN\VHUEQBQS|Kind=1|AlternatePart= 
 Variation166=Designator=R357|UniqueId=\TDQDDSLN\QYHCBALQ|Kind=1|AlternatePart= 
+Variation167=Designator=R229|UniqueId=\WHAEGWDI\XQXFVFSP|Kind=1|AlternatePart= 
+Variation168=Designator=B5|UniqueId=\RLJRBQKL\LGTRNOMI|Kind=1|AlternatePart= 
+Variation169=Designator=B6|UniqueId=\RLJRBQKL\ARMJSHYW|Kind=1|AlternatePart= 
+Variation170=Designator=B7|UniqueId=\RLJRBQKL\MQQOYKMF|Kind=1|AlternatePart= 
+Variation171=Designator=B8|UniqueId=\RLJRBQKL\OHJFKENC|Kind=1|AlternatePart= 
+Variation172=Designator=R551|UniqueId=\WHAEGWDI\OCDGCRGD|Kind=1|AlternatePart= 
+Variation173=Designator=R543|UniqueId=\WHAEGWDI\BYUCISOE|Kind=1|AlternatePart= 
+Variation174=Designator=R441|UniqueId=\TBDYGZPT\HBVLIRMF|Kind=1|AlternatePart= 
+Variation175=Designator=R446|UniqueId=\TBDYGZPT\LLKNRLDY|Kind=1|AlternatePart= 
 ParamVariationCount=29
 
 [ProjectVariant2]
@@ -1143,7 +1153,7 @@ UniqueID=9240E72B-1898-4515-A425-0CFCD8DD6B01
 Description=RTM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=117
+VariationCount=126
 Variation1=Designator=R128|UniqueId=\BWXHQGCB\ZYNHPGUL|Kind=1|AlternatePart= 
 Variation2=Designator=C333|UniqueId=\BWXHQGCB\LSPUQIJW\IHRHTYIJ|Kind=1|AlternatePart= 
 Variation3=Designator=C332|UniqueId=\BWXHQGCB\LSPUQIJW\UACYWPYS|Kind=1|AlternatePart= 
@@ -1297,6 +1307,15 @@ Variation114=Designator=R154|UniqueId=\TDQDDSLN\ACXQPCFW|Kind=1|AlternatePart=
 Variation115=Designator=R155|UniqueId=\TDQDDSLN\PEVDLPJY|Kind=1|AlternatePart= 
 Variation116=Designator=R443|UniqueId=\TDQDDSLN\EUIJYRCK|Kind=1|AlternatePart= 
 Variation117=Designator=R299|UniqueId=\TDQDDSLN\TWMBZFNO|Kind=1|AlternatePart= 
+Variation118=Designator=R229|UniqueId=\WHAEGWDI\XQXFVFSP|Kind=1|AlternatePart= 
+Variation119=Designator=B8|UniqueId=\RLJRBQKL\OHJFKENC|Kind=1|AlternatePart= 
+Variation120=Designator=B7|UniqueId=\RLJRBQKL\MQQOYKMF|Kind=1|AlternatePart= 
+Variation121=Designator=B6|UniqueId=\RLJRBQKL\ARMJSHYW|Kind=1|AlternatePart= 
+Variation122=Designator=B5|UniqueId=\RLJRBQKL\LGTRNOMI|Kind=1|AlternatePart= 
+Variation123=Designator=R551|UniqueId=\WHAEGWDI\OCDGCRGD|Kind=1|AlternatePart= 
+Variation124=Designator=R543|UniqueId=\WHAEGWDI\BYUCISOE|Kind=1|AlternatePart= 
+Variation125=Designator=R441|UniqueId=\TBDYGZPT\HBVLIRMF|Kind=1|AlternatePart= 
+Variation126=Designator=R446|UniqueId=\TBDYGZPT\LLKNRLDY|Kind=1|AlternatePart= 
 ParamVariationCount=18
 
 [ProjectVariant3]
@@ -1304,7 +1323,7 @@ UniqueID=1A58D0C1-D461-45B2-BAA8-CE72E6B34E25
 Description=LNLS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=167
+VariationCount=179
 Variation1=Designator=C207|UniqueId=\BWXHQGCB\LSPUQIJW\DDVBDNTA|Kind=1|AlternatePart= 
 Variation2=Designator=C198|UniqueId=\BWXHQGCB\LSPUQIJW\CDGRCHLN|Kind=1|AlternatePart= 
 Variation3=Designator=C206|UniqueId=\BWXHQGCB\LSPUQIJW\BXXJIMIV|Kind=1|AlternatePart= 
@@ -1472,11 +1491,19 @@ Variation164=Designator=R548|UniqueId=\BWXHQGCB\EOXJXCJA\HVPXXDAC|Kind=1|Alterna
 Variation165=Designator=R549|UniqueId=\BWXHQGCB\EOXJXCJA\GMSHAWBN|Kind=1|AlternatePart= 
 Variation166=Designator=R224|UniqueId=\TDQDDSLN\PFRDSGWP\XIEPWOYF|Kind=1|AlternatePart= 
 Variation167=Designator=R383|UniqueId=\TDQDDSLN\PFRDSGWP\EQHKHIMB|Kind=1|AlternatePart= 
+Variation168=Designator=R229|UniqueId=\WHAEGWDI\XQXFVFSP|Kind=1|AlternatePart= 
+Variation169=Designator=B5|UniqueId=\RLJRBQKL\LGTRNOMI|Kind=1|AlternatePart= 
+Variation170=Designator=B6|UniqueId=\RLJRBQKL\ARMJSHYW|Kind=1|AlternatePart= 
+Variation171=Designator=B7|UniqueId=\RLJRBQKL\MQQOYKMF|Kind=1|AlternatePart= 
+Variation172=Designator=B8|UniqueId=\RLJRBQKL\OHJFKENC|Kind=1|AlternatePart= 
+Variation173=Designator=R543|UniqueId=\WHAEGWDI\BYUCISOE|Kind=1|AlternatePart= 
+Variation174=Designator=R551|UniqueId=\WHAEGWDI\OCDGCRGD|Kind=1|AlternatePart= 
+Variation175=Designator=R441|UniqueId=\TBDYGZPT\HBVLIRMF|Kind=1|AlternatePart= 
+Variation176=Designator=R446|UniqueId=\TBDYGZPT\LLKNRLDY|Kind=1|AlternatePart= 
+Variation177=Designator=SW1|UniqueId=\TBDYGZPT\RVLBYVZJ|Kind=1|AlternatePart= 
+Variation178=Designator=D33|UniqueId=\TBDYGZPT\LBIDDLWX|Kind=1|AlternatePart= 
+Variation179=Designator=R449|UniqueId=\TDQDDSLN\PFRDSGWP\EEDVCRFP|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for AMC_FMC_Carrier v4\Design Rule Check - AMC_FMC_Carrier_v4.html
-DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\..\ZZ_Libs\*.*
@@ -1485,6 +1512,10 @@ IncludeSubFolders=1
 [SearchPath2]
 Path=..\..\ZZ_Libs\CernLib\*.*
 IncludeSubFolders=1
+
+[Parameter1]
+Name==ModifiedBy
+Value=F.Świtakowski
 
 [Configuration1]
 Name=Default Configuration
@@ -1541,18 +1572,113 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=CadnetixNetlist
+OutputName2=Cadnetix Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=CalayNetlist
+OutputName3=Calay Netlist
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EDIF
+OutputName4=EDIF for PCB
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=EESofNetlist
+OutputName5=EESof Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=IntergraphNetlist
+OutputName6=Intergraph Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MentorBoardStationNetlist
+OutputName7=Mentor BoardStation Netlist
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MultiWire
+OutputName8=MultiWire
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=OrCadPCB2Netlist
+OutputName9=Orcad/PCB2 Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=PADSNetlist
+OutputName10=PADS ASCII Netlist
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Pcad
+OutputName11=Pcad for PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1614,6 +1740,18 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=PDF3D
+OutputName10=PDF3D
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1644,7 +1782,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Test Points
 OutputName1=Test Point Report
@@ -1722,7 +1860,7 @@ Configuration12_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~T
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -1773,11 +1911,23 @@ OutputVariantName6=[No Variations]
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=ReportHierarchyView|ReportHierarchyMode=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1885,7 +2035,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1929,7 +2079,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Save As/Export PCB
 OutputName1=Save As/Export PCB
@@ -1946,11 +2096,36 @@ OutputName3=Specctra Design PCB
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
+OutputType4=AutoCAD dwg/dxf PCB
+OutputName4=AutoCAD dwg/dxf File PCB
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=AutoCAD dwg/dxf Schematic
+OutputName5=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=ExportPARASOLID
+OutputName6=Export PARASOLID
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=ExportSTEP
+OutputName7=Export STEP
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=ExportVRML
+OutputName8=Export VRML
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=hp deskjet 920c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
