@@ -912,7 +912,7 @@ UniqueID=3DD6BD3E-1835-47DD-AC68-7A6549BDE1C9
 Description=FMC
 AllowFabrication=0
 ParameterCount=0
-VariationCount=176
+VariationCount=179
 Variation1=Designator=R128|UniqueId=\BWXHQGCB\ZYNHPGUL|Kind=1|AlternatePart= 
 Variation2=Designator=C837|UniqueId=\BWXHQGCB\LSPUQIJW\WVKHVOHC|Kind=1|AlternatePart= 
 Variation3=Designator=C836|UniqueId=\BWXHQGCB\LSPUQIJW\HUJTJWYH|Kind=1|AlternatePart= 
@@ -1147,6 +1147,9 @@ Variation173=Designator=R446|UniqueId=\TBDYGZPT\LLKNRLDY|Kind=1|AlternatePart=
 Variation174=Designator=R384|UniqueId=\TDQDDSLN\PFRDSGWP\EEDVCRFP|Kind=1|AlternatePart= 
 Variation175=Designator=R474|UniqueId=\TDQDDSLN\PFRDSGWP\NBVGWMZC|Kind=1|AlternatePart= 
 Variation176=Designator=OSC2|UniqueId=\TDQDDSLN\PFRDSGWP\JSOTWVSR|Kind=0|AlternatePart= 
+Variation177=Designator=R449|UniqueId=\TDQDDSLN\PFRDSGWP\BGIVEJAN|Kind=1|AlternatePart= 
+Variation178=Designator=R563|UniqueId=\TDQDDSLN\PFRDSGWP\DOPXXCOX|Kind=1|AlternatePart= 
+Variation179=Designator=R224|UniqueId=\TDQDDSLN\PFRDSGWP\XIEPWOYF|Kind=1|AlternatePart= 
 ParamVariationCount=29
 
 [ProjectVariant2]
@@ -1154,7 +1157,7 @@ UniqueID=9240E72B-1898-4515-A425-0CFCD8DD6B01
 Description=RTM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=125
+VariationCount=127
 Variation1=Designator=R128|UniqueId=\BWXHQGCB\ZYNHPGUL|Kind=1|AlternatePart= 
 Variation2=Designator=C333|UniqueId=\BWXHQGCB\LSPUQIJW\IHRHTYIJ|Kind=1|AlternatePart= 
 Variation3=Designator=C332|UniqueId=\BWXHQGCB\LSPUQIJW\UACYWPYS|Kind=1|AlternatePart= 
@@ -1300,9 +1303,9 @@ Variation122=Designator=R543|UniqueId=\WHAEGWDI\BYUCISOE|Kind=1|AlternatePart=
 Variation123=Designator=R441|UniqueId=\TBDYGZPT\HBVLIRMF|Kind=1|AlternatePart= 
 Variation124=Designator=R446|UniqueId=\TBDYGZPT\LLKNRLDY|Kind=1|AlternatePart= 
 Variation125=Designator=OSC2|UniqueId=\TDQDDSLN\PFRDSGWP\JSOTWVSR|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\PS\Documents\liby\CernLib\CernLib\ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=OSC_10-160MHZ_SILICON-LAB_Si570CAC000121DG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI570|AltLibLink_IsSameFootprint=False
-ParamVariation11=ParameterName=Bonding|VariantValue=No
+ParamVariation11=ParameterName=Comment|VariantValue==Value
 ParamDesignator11=OSC2
-ParamVariation12=ParameterName=Comment|VariantValue==Value
+ParamVariation12=ParameterName=Bonding|VariantValue=No
 ParamDesignator12=OSC2
 ParamVariation13=ParameterName=ComponentHeight|VariantValue=1.8mm
 ParamDesignator13=OSC2
@@ -1356,6 +1359,8 @@ ParamVariation37=ParameterName=Socket|VariantValue=No
 ParamDesignator37=OSC2
 ParamVariation38=ParameterName=Value|VariantValue=10-160MHz
 ParamDesignator38=OSC2
+Variation126=Designator=R564|UniqueId=\TDQDDSLN\PFRDSGWP\BULHZDFL|Kind=1|AlternatePart= 
+Variation127=Designator=R384|UniqueId=\TDQDDSLN\PFRDSGWP\EEDVCRFP|Kind=1|AlternatePart= 
 ParamVariationCount=38
 
 [ProjectVariant3]
@@ -1363,7 +1368,7 @@ UniqueID=1A58D0C1-D461-45B2-BAA8-CE72E6B34E25
 Description=LNLS_FOFB
 AllowFabrication=0
 ParameterCount=0
-VariationCount=134
+VariationCount=149
 Variation1=Designator=C207|UniqueId=\BWXHQGCB\LSPUQIJW\DDVBDNTA|Kind=1|AlternatePart= 
 Variation2=Designator=C198|UniqueId=\BWXHQGCB\LSPUQIJW\CDGRCHLN|Kind=1|AlternatePart= 
 Variation3=Designator=C206|UniqueId=\BWXHQGCB\LSPUQIJW\BXXJIMIV|Kind=1|AlternatePart= 
@@ -1498,9 +1503,9 @@ Variation131=Designator=R547|UniqueId=\BWXHQGCB\EOXJXCJA\JOQIWYNX|Kind=1|Alterna
 Variation132=Designator=R527|UniqueId=\BWXHQGCB\EOXJXCJA\GSNAAHVP|Kind=1|AlternatePart= 
 Variation133=Designator=R531|UniqueId=\BWXHQGCB\EOXJXCJA\KSKKPGQP|Kind=1|AlternatePart= 
 Variation134=Designator=OSC2|UniqueId=\TDQDDSLN\PFRDSGWP\JSOTWVSR|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\PS\Documents\liby\CernLib\CernLib\ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=OSC_10-160MHZ_SILICON-LAB_Si570CAC000121DG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI570|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Bonding|VariantValue=No
+ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=OSC2
-ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamVariation2=ParameterName=Bonding|VariantValue=No
 ParamDesignator2=OSC2
 ParamVariation3=ParameterName=ComponentHeight|VariantValue=1.8mm
 ParamDesignator3=OSC2
@@ -1554,6 +1559,21 @@ ParamVariation27=ParameterName=Socket|VariantValue=No
 ParamDesignator27=OSC2
 ParamVariation28=ParameterName=Value|VariantValue=10-160MHz
 ParamDesignator28=OSC2
+Variation135=Designator=TPD15|UniqueId=\RLJRBQKL\RXDHEKXL|Kind=0|AlternatePart= 
+Variation136=Designator=TPD20|UniqueId=\RLJRBQKL\XFEFXLYB|Kind=0|AlternatePart= 
+Variation137=Designator=TPD21|UniqueId=\RLJRBQKL\FTSVGSNV|Kind=0|AlternatePart= 
+Variation138=Designator=TPD2|UniqueId=\RLJRBQKL\KUIARWED|Kind=0|AlternatePart= 
+Variation139=Designator=TPD13|UniqueId=\RLJRBQKL\BXOHGDIP|Kind=0|AlternatePart= 
+Variation140=Designator=TPD5|UniqueId=\RLJRBQKL\TJERQHJQ|Kind=0|AlternatePart= 
+Variation141=Designator=TPD6|UniqueId=\RLJRBQKL\JSLCXMFY|Kind=0|AlternatePart= 
+Variation142=Designator=TPD24|UniqueId=\RLJRBQKL\RPQLFOXQ|Kind=0|AlternatePart= 
+Variation143=Designator=TPD34|UniqueId=\RLJRBQKL\MBSLFFUC|Kind=0|AlternatePart= 
+Variation144=Designator=TPD30|UniqueId=\RLJRBQKL\IFVQAXPJ|Kind=0|AlternatePart= 
+Variation145=Designator=TPD19|UniqueId=\RLJRBQKL\GDXSKCDN|Kind=0|AlternatePart= 
+Variation146=Designator=TPD31|UniqueId=\RLJRBQKL\SSOXBFCL|Kind=0|AlternatePart= 
+Variation147=Designator=TPD29|UniqueId=\RLJRBQKL\YFJFKMDK|Kind=0|AlternatePart= 
+Variation148=Designator=R449|UniqueId=\TDQDDSLN\PFRDSGWP\BGIVEJAN|Kind=1|AlternatePart= 
+Variation149=Designator=R564|UniqueId=\TDQDDSLN\PFRDSGWP\BULHZDFL|Kind=1|AlternatePart= 
 ParamVariationCount=28
 
 [GeneratedDocument1]
@@ -2176,11 +2196,6 @@ OutputName8=Export VRML
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=HyperLynx
-OutputName9=HyperLynx (AutoPCB)
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
