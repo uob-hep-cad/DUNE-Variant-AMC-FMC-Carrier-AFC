@@ -1,0 +1,15 @@
+---
+# SPDX-FileCopyrightText: 2024 CERN (home.cern)
+#
+# SPDX-License-Identifier: BSD-3-Clause
+
+version: '1.0.0'
+name: 'AMC FMC Carrier AFC'
+description: 'https://ohwr.org/project/afc/wikis/home'
+website: 'https://ohwr.org/project/afc'
+images:
+  - 'https://ohwr.org/project/afc/uploads/6d8212ccd75223120cdffd961ccc1060/afc_front_1.jpg'
+  - 'https://ohwr.org/project/afc/wikis/uploads/b901749db194c904665ba89dbc55b811/AFCv4.png'
+documentation: 'https://ohwr.org/project/afc/wikis'
+issues: 'https://ohwr.org/project/afc/issues'
+
