@@ -13,3 +13,5 @@ images:
 documentation: 'https://ohwr.org/project/afc/wikis'
 issues: 'https://ohwr.org/project/afc/issues'
 forum: 'https://forums.ohwr.org/c/afc'
+licenses:
+  - 'CERN-OHL-1.1'
