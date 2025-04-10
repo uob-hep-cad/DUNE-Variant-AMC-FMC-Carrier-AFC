@@ -9,7 +9,7 @@ description: 'https://gitlab.com/ohwr/project/afc/wikis/home'
 website: 'https://gitlab.com/ohwr/project/afc'
 images:
   - 'https://gitlab.com/ohwr/project/afc/-/wikis/uploads/6d8212ccd75223120cdffd961ccc1060/afc_front_1.jpg'
-  - 'https://gitlab.com/ohwr/project/afc/wikis/-/wikis/uploads/b901749db194c904665ba89dbc55b811/AFCv4.png'
+  - 'https://gitlab.com/ohwr/project/afc/-/wikis/uploads/b901749db194c904665ba89dbc55b811/AFCv4.png'
 documentation: 'https://gitlab.com/ohwr/project/afc/wikis'
 issues: 'https://gitlab.com/ohwr/project/afc/issues'
 forum: 'https://forums.ohwr.org/c/afc'
