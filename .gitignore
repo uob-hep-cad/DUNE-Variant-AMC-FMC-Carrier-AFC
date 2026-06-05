@@ -8,7 +8,7 @@
 *gerbers*
 *.prjPcbStructure
 *.Dat
-*.PcbLib
+# *.PcbLib - Removed 
 
 # Windows image file caches
 Thumbs.db
