@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [AMC_FMC_Carrier_v4.PcbDoc]
+   Generated File[Report Board Stack_AFC_v4.0.2_DUNE.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:51:37 On 05/08/2026
