@@ -26,3 +26,5 @@ UNITS=MM
 .out_rout_order = 0
 .etm_adapter_h = 95250.000000
 .gold_plating = no
+_board_origin_x = 228582677
+_board_origin_y = 171948819
