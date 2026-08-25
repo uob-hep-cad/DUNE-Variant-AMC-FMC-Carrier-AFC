@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\dparker\OneDrive - Imperial College London\Desktop\DUNE-Variant-AMC-FMC-Carrier-AFC\manufacturing\Pick Place\PnP_AFC_v4.0.2_DUNE.txt
+C:\Users\msaleh\OneDrive - Imperial College London\Desktop\FMC CARRIER AFC\DUNE-Variant-AMC-FMC-Carrier-AFC\manufacturing\Pick Place\PnP_AFC_v4.0.2_DUNE.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       05/08/26
-Time:       15:48
-Revision:   a90e788bf374d54a3c4c4c070ebdcd624d967482
+Date:       25/08/26
+Time:       11:22
+Revision:   d8b1cbc827585aa6278db64085268387d8ae42a9
 Variant:    DUNE
 Units used: mm
 
@@ -14,7 +14,7 @@ Designator Comment               Layer       Footprint                       Cen
 J22        TSM-102-01-L-SH-P-TR  TopLayer    SAMTEC_TSM-102-01-L-SH-P-TR     -143.0000    44.2200      0        ""                                                                                                                               
 IC66       MCP23016-I/SO         TopLayer    SOIC127P1030X265-28N            -129.7224    -27.3970     270      "16-bit I/O I2C I/O Expander"                                                                                                    
 C477       22uF                  TopLayer    CAPC3216X180N                   -102.0000    44.0000      90       "Non-polarised capacitor"                                                                                                        
-C479       22pF                  TopLayer    CAPC1005X55N                    -100.5000    37.5000      90       "Non-polarised capacitor"                                                                                                        
+C479       22pF                  TopLayer    CAPC1005X55N                    -99.8750     37.8750      0        "Non-polarised capacitor"                                                                                                        
 Y1         ASDMB-100.000MHZ-XY-T TopLayer    FP-ASDM-ASDMB-MFG               -148.0000    63.5000      0        "MEMS Oscillator 100MHz ±10ppm LVCMOS 1.8V~3.3V SMD 2.5x2mm"                                                                     
 C487       100nF                 TopLayer    CAPC0603X33N                    -135.7500    16.7500      90       "Non-polarised capacitor"                                                                                                        
 C486       100nF                 TopLayer    CAPC0603X33N                    -141.1250    18.3750      0        "Non-polarised capacitor"                                                                                                        
@@ -257,7 +257,7 @@ R458       0                     TopLayer    RESC1005X40N                    -14
 R457       0                     TopLayer    RESC1005X40N                    -141.6442    -27.2976     0        Resistor                                                                                                                         
 R456       3k9                   TopLayer    RESC1005X40N                    -130.4544    -20.5486     90       "Resistor - 1%"                                                                                                                  
 R440       100k                  TopLayer    RESC1005X40N                    -161.5948    -21.1074     90       "Resistor - 1%"                                                                                                                  
-R214       10k                   BottomLayer RESC1005X40N                    -74.5000     -0.5000      0        "Resistor - 1%"                                                                                                                  
+R214       10k                   BottomLayer RESC1005X40N                    -74.5000     -0.5000      180      "Resistor - 1%"                                                                                                                  
 R453       10k                   TopLayer    RESC1005X40N                    -29.6418     -33.1470     270      "Resistor - 1%"                                                                                                                  
 R452       0                     TopLayer    RESC1005X40N                    -139.8016    14.8082      180      Resistor                                                                                                                         
 R451       0                     TopLayer    RESC1005X40N                    -136.7282    14.8082      0        Resistor                                                                                                                         
@@ -294,8 +294,8 @@ R411       2k2                   TopLayer    RESC1005X40N                    -13
 R410       0                     TopLayer    RESC1005X40N                    -138.7094    62.6618      90       Resistor                                                                                                                         
 R394       0                     TopLayer    RESC1005X40N                    -158.2792    26.7318      270      Resistor                                                                                                                         
 R382       49R9                  TopLayer    RESC1005X40N                    -146.0000    63.8750      90       "Resistor - 1%"                                                                                                                  
-R381       15k                   TopLayer    RESC1005X40N                    -100.0000    36.0000      180      "Resistor - 1%"                                                                                                                  
-R380       12k                   TopLayer    RESC1005X40N                    -100.0000    35.0000      180      "Resistor - 1%"                                                                                                                  
+R381       15k                   TopLayer    RESC1005X40N                    -99.8750     37.0000      0        "Resistor - 1%"                                                                                                                  
+R380       12k                   TopLayer    RESC1005X40N                    -99.8750     36.1180      0        "Resistor - 1%"                                                                                                                  
 R350       0R002                 BottomLayer RES_VISHAY_WSK2512_0R005-0R2    -46.3296     -29.7942     90       "Power and Current Sensing Resistor"                                                                                             
 R348       0                     TopLayer    RESC1005X40N                    -157.2886    26.7318      270      Resistor                                                                                                                         
 R338       10k                   TopLayer    RESC1005X40N                    -173.7500    12.7500      90       "Resistor - 1%"                                                                                                                  
@@ -426,9 +426,9 @@ D11        ESD8351XV2T1G         BottomLayer SODFL1608X65N                   -9.
 D10        ESD8351XV2T1G         BottomLayer SODFL1608X65N                   -14.7208     -28.7528     180      "ESD protection diode"                                                                                                           
 D9         ESD8351XV2T1G         TopLayer    SODFL1608X65N                   -17.9070     -33.7566     180      "ESD protection diode"                                                                                                           
 D7         SK26A                 BottomLayer DIOM5126X265N                   -34.8742     -30.5054     270      "Schottky Diode"                                                                                                                 
-D6         PESD3V3S1UB           TopLayer    SODFL1608X65N                   -133.9342    80.6958      270      "ESD protection diode"                                                                                                           
+D6         CPDH3V3UP-HF          TopLayer    SODFL1608X65N                   -133.9342    80.6958      270      "ESD protection diode"                                                                                                           
 D5         BAT165                TopLayer    SOD2512X110N                    -136.4996    87.9600      270      "Schottky Diode"                                                                                                                 
-D1         PESD3V3S1UB           TopLayer    SODFL1608X65N                   -139.5984    87.0712      0        "ESD protection diode"                                                                                                           
+D1         CPDH3V3UP-HF          TopLayer    SODFL1608X65N                   -139.5984    87.0712      0        "ESD protection diode"                                                                                                           
 C855       100nF                 TopLayer    CAPC0603X33N                    -159.3460    24.9792      270      "Non-polarised capacitor"                                                                                                        
 C847       100nF                 TopLayer    CAPC0603X33N                    -149.2500    65.7500      90       "Non-polarised capacitor"                                                                                                        
 C846       1uF                   TopLayer    CAPC1608X87N                    -151.9492    63.3288      0        "Non-polarised capacitor"                                                                                                        
@@ -492,7 +492,7 @@ R344       DNP                   TopLayer    RESC1005X40N                    -12
 R343       DNP                   TopLayer    RESC1005X40N                    -120.2690    84.8217      90       "Resistor - 1%"                                                                                                                  
 R328       2                     BottomLayer RESC1608X55N                    -58.0644     12.4460      0        "Resistor - 1%"                                                                                                                  
 R327       2                     BottomLayer RESC1608X55N                    -57.9374     14.0970      0        "Resistor - 1%"                                                                                                                  
-R326       10k                   TopLayer    RESC1005X40N                    -99.5000     37.5000      90       "Resistor - 1%"                                                                                                                  
+R326       10k                   TopLayer    RESC1005X40N                    -99.8750     35.2500      180      "Resistor - 1%"                                                                                                                  
 C635       1nF                   TopLayer    CAPC1005X55N                    -44.5008     18.7706      90       "Non-polarised capacitor"                                                                                                        
 C634       1nF                   TopLayer    CAPC1005X55N                    -45.6506     18.7554      90       "Non-polarised capacitor"                                                                                                        
 C840       100nF                 TopLayer    CAPC0603X33N                    -39.7750     60.8750      180      "Non-polarised capacitor"                                                                                                        
@@ -500,7 +500,6 @@ C841       100nF                 TopLayer    CAPC0603X33N                    -39
 IC74       LD1117DT33CTR         TopLayer    TO228P972X240-3N-R540X510       -41.2852     29.1338      0        "3-Terminal Regulator 1=GND 2=IN 3=OUT"                                                                                          
 C817       1uF                   TopLayer    CAPC1608X87N                    -47.3456     30.5308      90       "Non-polarised capacitor"                                                                                                        
 C816       1uF                   TopLayer    CAPC1608X87N                    -43.7134     25.2222      0        "Non-polarised capacitor"                                                                                                        
-J2         "Advanced TCA"        BottomLayer TYCO_6469081-1                  -14.2000     86.1000      0        "Connector 60 ATCA Female 30 Pairs (60 Signals) + 3x10 Ground"                                                                   
 R287       10k                   BottomLayer RESC1005X40N                    -75.0000     -2.0000      90       "Resistor - 1%"                                                                                                                  
 R45        10k                   BottomLayer RESC1005X40N                    -86.0000     1.0000       90       "Resistor - 1%"                                                                                                                  
 R43        10k                   BottomLayer RESC1005X40N                    -85.5000     -2.0000      90       "Resistor - 1%"                                                                                                                  
@@ -970,7 +969,7 @@ R110       100k                  TopLayer    RESC1005X40N                    -16
 R109       100k                  BottomLayer RESC1005X40N                    -57.8250     17.8750      180      "Resistor - 1%"                                                                                                                  
 R108       75k                   BottomLayer RESC1608X55N                    -57.8250     19.3750      180      "Resistor - 1%"                                                                                                                  
 R106       100k                  BottomLayer RESC1005X40N                    -60.1250     18.6500      90       "Resistor - 1%"                                                                                                                  
-R105       10k                   BottomLayer RESC1005X40N                    -74.0000     1.0000       90       "Resistor - 1%"                                                                                                                  
+R105       10k                   BottomLayer RESC1005X40N                    -75.0000     1.0000       90       "Resistor - 1%"                                                                                                                  
 R104       10k                   TopLayer    RESC1005X40N                    -94.6912     -20.2438     180      "Resistor - 1%"                                                                                                                  
 L8         440nH                 BottomLayer IND_PULSE_PA0513                -41.2620     14.8250      0        "Inductor With Core"                                                                                                             
 IC33       LM75AIM/NOPB          TopLayer    SOIC127P600X175-8N              -32.5250     88.9500      0        "Digital Temperature Sensor and Thermal Watchdog with Two-Wire Interface"                                                        
@@ -1103,8 +1102,8 @@ Q6         BC847B                BottomLayer SOT95P230X110-3N                -84
 Q5         BC847B                TopLayer    SOT95P230X110-3N                -93.8784     -16.7316     270      "NPN Transistor"                                                                                                                 
 Q4         BSS138LT1G            TopLayer    SOT95P240X110-3N                -127.6000    22.6750      90       "N-CHANNEL MOSFET WITH DIODE"                                                                                                    
 Q3         BSS138LT1G            TopLayer    SOT95P240X110-3N                -132.7250    95.1750      270      "N-CHANNEL MOSFET WITH DIODE"                                                                                                    
-Q2         IRF9317TRPBF          TopLayer    SOIC127P600X175-8N              -124.1222    28.6766      0        "-30V -16A P-Channel HEXFET® Power MOSFET"                                                                                       
-Q1         IRF9317TRPBF          TopLayer    SOIC127P600X175-8N              -126.4666    90.5002      0        "-30V -16A P-Channel HEXFET® Power MOSFET"                                                                                       
+Q2         "BSO301SP H"          TopLayer    INF-P-DSO-8-3_L                 -124.1222    28.6766      0        "P-Channel OptiMOS P Power-Transistor, -30 V VDS, -14.9 A ID, -55 to 150 degC, P-DSO-8-3, Reel, Green"                           
+Q1         "BSO301SP H"          TopLayer    INF-P-DSO-8-3_L                 -126.4666    90.5002      0        "P-Channel OptiMOS P Power-Transistor, -30 V VDS, -14.9 A ID, -55 to 150 degC, P-DSO-8-3, Reel, Green"                           
 LED13      Red                   BottomLayer LED_KINGBRIGHT_KPH-1608SURCK    -38.3772     -2.8978      90       "LED Red 1C 2A"                                                                                                                  
 LED12      Red                   BottomLayer LED_KINGBRIGHT_KPH-1608SURCK    -40.3932     -2.8818      90       "LED Red 1C 2A"                                                                                                                  
 LED7       Red                   TopLayer    LED_KINGBRIGHT_KPH-1608SURCK    -126.7500    18.5500      180      "LED Red 1C 2A"                                                                                                                  
@@ -1379,9 +1378,8 @@ R308       2k2                   BottomLayer RESC1005X40N                    -78
 C767       100nF                 TopLayer    CAPC0603X33N                    -156.5402    -18.7706     0        "Non-polarised capacitor"                                                                                                        
 R25        5k1                   TopLayer    RESC1608X55N                    -149.5298    -18.3388     180      "Resistor - 1%"                                                                                                                  
 R26        5k1                   TopLayer    RESC1608X55N                    -151.7000    -22.9750     0        "Resistor - 1%"                                                                                                                  
-J1         "Advanced TCA"        BottomLayer TYCO_6469081-1                  -14.2000     61.1000      0        "Connector 60 ATCA Female 30 Pairs (60 Signals) + 3x10 Ground"                                                                   
 J12        ""                    BottomLayer TYCO_5120913-1                  -20.0000     103.9999     0        "Single Pin Female"                                                                                                              
-Q13        IRF9317TRPBF          TopLayer    SOIC127P600X175-8N              -14.7450     41.0450      0        "-30V -16A P-Channel HEXFET® Power MOSFET"                                                                                       
+Q13        "BSO301SP H"          TopLayer    INF-P-DSO-8-3_L                 -14.7450     41.0450      0        "P-Channel OptiMOS P Power-Transistor, -30 V VDS, -14.9 A ID, -55 to 150 degC, P-DSO-8-3, Reel, Green"                           
 Q14        BSS138LT1G            TopLayer    SOT95P240X110-3N                -23.0000     45.3750      270      "N-CHANNEL MOSFET WITH DIODE"                                                                                                    
 R122       10k                   TopLayer    RESC1005X40N                    -19.8374     43.1292      0        "Resistor - 1%"                                                                                                                  
 R305       10k                   TopLayer    RESC1005X40N                    -23.0500     47.8500      0        "Resistor - 1%"                                                                                                                  

@@ -2131,7 +2131,7 @@ UniqueId=C74CC669-D555-49B2-89BC-C3DCCF1F1D1A
 Description=DUNE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=215
+VariationCount=217
 Variation1=Designator=R128|UniqueId=\BWXHQGCB\ZYNHPGUL|Kind=1|AlternatePart=
 Variation2=Designator=C333|UniqueId=\BWXHQGCB\LSPUQIJW\IHRHTYIJ|Kind=1|AlternatePart=
 Variation3=Designator=C332|UniqueId=\BWXHQGCB\LSPUQIJW\UACYWPYS|Kind=1|AlternatePart=
@@ -2403,6 +2403,8 @@ Variation212=Designator=C37|UniqueId=\XWHVKFDX\YQVMOPHL|Kind=1|AlternatePart=
 Variation213=Designator=R379|UniqueId=\LYABXMAL\VHDYSRGB\NTKHIIKD|Kind=1|AlternatePart=
 Variation214=Designator=R62|UniqueId=\LYABXMAL\WHCQLCIH\OPHBLKJX|Kind=1|AlternatePart=
 Variation215=Designator=R120|UniqueId=\LYABXMAL\WHCQLCIH\TVUMNTBO|Kind=1|AlternatePart=
+Variation216=Designator=J1|UniqueId=\RLJRBQKL\DEHXECJW|Kind=1|AlternatePart=
+Variation217=Designator=J2|UniqueId=\RLJRBQKL\YHQJDUKE|Kind=1|AlternatePart=
 ParamVariationCount=28
 
 [GeneratedDocument1]
