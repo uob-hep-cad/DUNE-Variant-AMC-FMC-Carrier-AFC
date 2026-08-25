@@ -4,9 +4,9 @@ C:\Users\msaleh\OneDrive - Imperial College London\Desktop\FMC CARRIER AFC\DUNE-
 ========================================================================================================================
 File Design Information:
 
-Date:       19/08/26
-Time:       15:56
-Revision:   a90e788bf374d54a3c4c4c070ebdcd624d967482
+Date:       25/08/26
+Time:       12:16
+Revision:   2d75241e3ad289339ed94d9739577eb8bb005a3f
 Variant:    DUNE
 Units used: mm
 
@@ -426,9 +426,9 @@ Units used: mm
 "D10","ESD8351XV2T1G","BottomLayer","SODFL1608X65N","-14.7208","-28.7528","180","ESD protection diode"
 "D9","ESD8351XV2T1G","TopLayer","SODFL1608X65N","-17.9070","-33.7566","180","ESD protection diode"
 "D7","SK26A","BottomLayer","DIOM5126X265N","-34.8742","-30.5054","270","Schottky Diode"
-"D6","PESD3V3S1UB","TopLayer","SODFL1608X65N","-133.9342","80.6958","270","ESD protection diode"
+"D6","CPDH3V3UP-HF","TopLayer","SODFL1608X65N","-133.9342","80.6958","270","ESD protection diode"
 "D5","BAT165","TopLayer","SOD2512X110N","-136.4996","87.9600","270","Schottky Diode"
-"D1","PESD3V3S1UB","TopLayer","SODFL1608X65N","-139.5984","87.0712","0","ESD protection diode"
+"D1","CPDH3V3UP-HF","TopLayer","SODFL1608X65N","-139.5984","87.0712","0","ESD protection diode"
 "C855","100nF","TopLayer","CAPC0603X33N","-159.3460","24.9792","270","Non-polarised capacitor"
 "C847","100nF","TopLayer","CAPC0603X33N","-149.2500","65.7500","90","Non-polarised capacitor"
 "C846","1uF","TopLayer","CAPC1608X87N","-151.9492","63.3288","0","Non-polarised capacitor"
@@ -500,7 +500,6 @@ Units used: mm
 "IC74","LD1117DT33CTR","TopLayer","TO228P972X240-3N-R540X510","-41.2852","29.1338","0","3-Terminal Regulator 1=GND 2=IN 3=OUT"
 "C817","1uF","TopLayer","CAPC1608X87N","-47.3456","30.5308","90","Non-polarised capacitor"
 "C816","1uF","TopLayer","CAPC1608X87N","-43.7134","25.2222","0","Non-polarised capacitor"
-"J2","Advanced TCA","BottomLayer","TYCO_6469081-1","-14.2000","86.1000","0","Connector 60 ATCA Female 30 Pairs (60 Signals) + 3x10 Ground"
 "R287","10k","BottomLayer","RESC1005X40N","-75.0000","-2.0000","90","Resistor - 1%"
 "R45","10k","BottomLayer","RESC1005X40N","-86.0000","1.0000","90","Resistor - 1%"
 "R43","10k","BottomLayer","RESC1005X40N","-85.5000","-2.0000","90","Resistor - 1%"
@@ -1103,8 +1102,8 @@ Units used: mm
 "Q5","BC847B","TopLayer","SOT95P230X110-3N","-93.8784","-16.7316","270","NPN Transistor"
 "Q4","BSS138LT1G","TopLayer","SOT95P240X110-3N","-127.6000","22.6750","90","N-CHANNEL MOSFET WITH DIODE"
 "Q3","BSS138LT1G","TopLayer","SOT95P240X110-3N","-132.7250","95.1750","270","N-CHANNEL MOSFET WITH DIODE"
-"Q2","IRF9317TRPBF","TopLayer","SOIC127P600X175-8N","-124.1222","28.6766","0","-30V -16A P-Channel HEXFET® Power MOSFET"
-"Q1","IRF9317TRPBF","TopLayer","SOIC127P600X175-8N","-126.4666","90.5002","0","-30V -16A P-Channel HEXFET® Power MOSFET"
+"Q2","BSO301SP H","TopLayer","INF-P-DSO-8-3_L","-124.1222","28.6766","0","P-Channel OptiMOS P Power-Transistor, -30 V VDS, -14.9 A ID, -55 to 150 degC, P-DSO-8-3, Reel, Green"
+"Q1","BSO301SP H","TopLayer","INF-P-DSO-8-3_L","-126.4666","90.5002","0","P-Channel OptiMOS P Power-Transistor, -30 V VDS, -14.9 A ID, -55 to 150 degC, P-DSO-8-3, Reel, Green"
 "LED13","Red","BottomLayer","LED_KINGBRIGHT_KPH-1608SURCK","-38.3772","-2.8978","90","LED Red 1C 2A"
 "LED12","Red","BottomLayer","LED_KINGBRIGHT_KPH-1608SURCK","-40.3932","-2.8818","90","LED Red 1C 2A"
 "LED7","Red","TopLayer","LED_KINGBRIGHT_KPH-1608SURCK","-126.7500","18.5500","180","LED Red 1C 2A"
@@ -1379,9 +1378,8 @@ Units used: mm
 "C767","100nF","TopLayer","CAPC0603X33N","-156.5402","-18.7706","0","Non-polarised capacitor"
 "R25","5k1","TopLayer","RESC1608X55N","-149.5298","-18.3388","180","Resistor - 1%"
 "R26","5k1","TopLayer","RESC1608X55N","-151.7000","-22.9750","0","Resistor - 1%"
-"J1","Advanced TCA","BottomLayer","TYCO_6469081-1","-14.2000","61.1000","0","Connector 60 ATCA Female 30 Pairs (60 Signals) + 3x10 Ground"
 "J12","","BottomLayer","TYCO_5120913-1","-20.0000","103.9999","0","Single Pin Female"
-"Q13","IRF9317TRPBF","TopLayer","SOIC127P600X175-8N","-14.7450","41.0450","0","-30V -16A P-Channel HEXFET® Power MOSFET"
+"Q13","BSO301SP H","TopLayer","INF-P-DSO-8-3_L","-14.7450","41.0450","0","P-Channel OptiMOS P Power-Transistor, -30 V VDS, -14.9 A ID, -55 to 150 degC, P-DSO-8-3, Reel, Green"
 "Q14","BSS138LT1G","TopLayer","SOT95P240X110-3N","-23.0000","45.3750","270","N-CHANNEL MOSFET WITH DIODE"
 "R122","10k","TopLayer","RESC1005X40N","-19.8374","43.1292","0","Resistor - 1%"
 "R305","10k","TopLayer","RESC1005X40N","-23.0500","47.8500","0","Resistor - 1%"
