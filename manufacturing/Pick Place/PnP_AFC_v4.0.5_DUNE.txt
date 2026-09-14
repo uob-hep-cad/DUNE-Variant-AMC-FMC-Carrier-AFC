@@ -4,8 +4,8 @@ C:\Users\msaleh\OneDrive - Imperial College London\Desktop\FMC CARRIER AFC\DUNE-
 ========================================================================================================================
 File Design Information:
 
-Date:       25/08/26
-Time:       12:16
+Date:       14/09/26
+Time:       14:03
 Revision:   2d75241e3ad289339ed94d9739577eb8bb005a3f
 Variant:    DUNE
 Units used: mm
@@ -39,6 +39,7 @@ R565       0                     BottomLayer RESC1005X40N                    -23
 Q28        FDS6898AZ             BottomLayer FP-751EB-MFG                    -73.8802     -26.2068     90       "FDS6898AZ Dual N-Channel Logic Level PWM Optimized PowerTrench® MOSFET 20V, 9.4A, 14mO"                                         
 Q26        FDS6898AZ             BottomLayer FP-751EB-MFG                    -87.4184     -26.3008     90       "FDS6898AZ Dual N-Channel Logic Level PWM Optimized PowerTrench® MOSFET 20V, 9.4A, 14mO"                                         
 Q25        FDS6898AZ             BottomLayer FP-751EB-MFG                    -30.8252     -17.6568     90       "FDS6898AZ Dual N-Channel Logic Level PWM Optimized PowerTrench® MOSFET 20V, 9.4A, 14mO"                                         
+L9         SRN3015-1R0Y          TopLayer    BOUR-SRN3015-2_V                -173.0484    -6.0250      270      "Semi-shielded Power Inductor, 1 uH, +/- 30%, 2.35 A, -40 to 125 degC, 3 x 3 x 1.5 mm SMD, RoHS and Halogen Free, Tape and Reel" 
 L7         SRN3015-1R0Y          TopLayer    BOUR-SRN3015-2_V                -143.0000    5.5000       0        "Semi-shielded Power Inductor, 1 uH, +/- 30%, 2.35 A, -40 to 125 degC, 3 x 3 x 1.5 mm SMD, RoHS and Halogen Free, Tape and Reel" 
 L4         SRN3015-1R0Y          BottomLayer BOUR-SRN3015-2_V                -57.0000     40.5000      180      "Semi-shielded Power Inductor, 1 uH, +/- 30%, 2.35 A, -40 to 125 degC, 3 x 3 x 1.5 mm SMD, RoHS and Halogen Free, Tape and Reel" 
 L2         SRN3015-1R0Y          BottomLayer BOUR-SRN3015-2_V                -77.0000     40.5000      90       "Semi-shielded Power Inductor, 1 uH, +/- 30%, 2.35 A, -40 to 125 degC, 3 x 3 x 1.5 mm SMD, RoHS and Halogen Free, Tape and Reel" 
@@ -1366,6 +1367,8 @@ C540       22uF                  TopLayer    CAPC3216X180N                   -73
 C541       22uF                  TopLayer    CAPC3216X180N                   -71.2300     -15.9246     270      "Non-polarised capacitor"                                                                                                        
 C542       22uF                  TopLayer    CAPC3216X180N                   -75.7300     -15.9246     270      "Non-polarised capacitor"                                                                                                        
 C20        100nF                 TopLayer    CAPC0603X33N                    -168.9750    81.8000      270      "Non-polarised capacitor"                                                                                                        
+C455a      22uF                  TopLayer    CAPC3216X180N                   -172.0850    -10.0330     90       "Non-polarised capacitor"                                                                                                        
+C455b      22uF                  TopLayer    CAPC3216X180N                   -174.1678    -10.0076     90       "Non-polarised capacitor"                                                                                                        
 C398       100nF                 TopLayer    CAPC0603X33N                    -154.1616    27.6034      270      "Non-polarised capacitor"                                                                                                        
 R298       10                    TopLayer    RESC1005X40N                    -151.6888    18.7960      0        "Resistor - 1%"                                                                                                                  
 R303       10                    TopLayer    RESC1005X40N                    -141.0970    20.7772      270      "Resistor - 1%"                                                                                                                  
