@@ -4,8 +4,8 @@ C:\Users\msaleh\OneDrive - Imperial College London\Desktop\FMC CARRIER AFC\DUNE-
 ========================================================================================================================
 File Design Information:
 
-Date:       14/09/26
-Time:       14:03
+Date:       17/09/26
+Time:       15:00
 Revision:   2d75241e3ad289339ed94d9739577eb8bb005a3f
 Variant:    DUNE
 Units used: mm
@@ -471,6 +471,8 @@ Units used: mm
 "C405","100nF","TopLayer","CAPC0603X33N","-128.8719","-17.8652","0","Non-polarised capacitor"
 "C404","100nF","TopLayer","CAPC0603X33N","-137.3750","12.7500","270","Non-polarised capacitor"
 "C391","1uF","TopLayer","CAPC1608X87N","-106.7500","36.7500","90","Non-polarised capacitor"
+"C399","100nF","TopLayer","CAPC0603X33N","-40.4622","65.4304","0","Non-polarised capacitor"
+"C397","100nF","TopLayer","CAPC0603X33N","-40.4368","66.0908","0","Non-polarised capacitor"
 "C395","100nF","TopLayer","CAPC0603X33N","-138.6078","33.0708","90","Non-polarised capacitor"
 "C394","100nF","TopLayer","CAPC0603X33N","-141.2494","35.1790","180","Non-polarised capacitor"
 "C393","100nF","TopLayer","CAPC0603X33N","-146.0754","37.0586","270","Non-polarised capacitor"
@@ -496,8 +498,8 @@ Units used: mm
 "R326","10k","TopLayer","RESC1005X40N","-99.8750","35.2500","180","Resistor - 1%"
 "C635","1nF","TopLayer","CAPC1005X55N","-44.5008","18.7706","90","Non-polarised capacitor"
 "C634","1nF","TopLayer","CAPC1005X55N","-45.6506","18.7554","90","Non-polarised capacitor"
-"C840","100nF","TopLayer","CAPC0603X33N","-39.7750","60.8750","180","Non-polarised capacitor"
-"C841","100nF","TopLayer","CAPC0603X33N","-39.7750","60.2500","180","Non-polarised capacitor"
+"C838","100nF","TopLayer","CAPC0603X33N","-100.9142","71.3740","90","Non-polarised capacitor"
+"C839","100nF","TopLayer","CAPC0603X33N","-101.5492","71.3740","90","Non-polarised capacitor"
 "IC74","LD1117DT33CTR","TopLayer","TO228P972X240-3N-R540X510","-41.2852","29.1338","0","3-Terminal Regulator 1=GND 2=IN 3=OUT"
 "C817","1uF","TopLayer","CAPC1608X87N","-47.3456","30.5308","90","Non-polarised capacitor"
 "C816","1uF","TopLayer","CAPC1608X87N","-43.7134","25.2222","0","Non-polarised capacitor"
@@ -1215,14 +1217,13 @@ Units used: mm
 "C199","100nF","TopLayer","CAPC0603X33N","-39.7750","67.9000","180","Non-polarised capacitor"
 "C200","100nF","TopLayer","CAPC0603X33N","-45.0000","64.7500","180","Non-polarised capacitor"
 "C201","100nF","TopLayer","CAPC0603X33N","-45.0000","64.1000","180","Non-polarised capacitor"
-"C202","100nF","TopLayer","CAPC0603X33N","-38.2002","66.0750","180","Non-polarised capacitor"
-"C203","100nF","TopLayer","CAPC0603X33N","-38.2002","65.4250","180","Non-polarised capacitor"
 "C204","100nF","TopLayer","CAPC0603X33N","-44.2750","59.5750","180","Non-polarised capacitor"
 "C206","100nF","TopLayer","CAPC0603X33N","-45.7750","67.3750","180","Non-polarised capacitor"
 "C207","100nF","TopLayer","CAPC0603X33N","-45.7750","66.7250","180","Non-polarised capacitor"
 "C208","15pF","TopLayer","CAPC1005X55N","-90.8450","102.1250","270","Non-polarised capacitor"
 "C209","1uF","TopLayer","CAPC1608X87N","-54.9250","11.5000","0","Non-polarised capacitor"
 "C210","1uF","BottomLayer","CAPC1608X87N","-54.9250","11.5000","180","Non-polarised capacitor"
+"C220","100nF","BottomLayer","CAPC0603X33N","-39.7750","60.2250","180","Non-polarised capacitor"
 "C221","100nF","TopLayer","CAPC0603X33N","-9.9060","15.3924","0","Non-polarised capacitor"
 "C222","100nF","TopLayer","CAPC0603X33N","-9.9060","16.1036","0","Non-polarised capacitor"
 "C223","100nF","TopLayer","CAPC0603X33N","-10.0584","17.6530","0","Non-polarised capacitor"
@@ -1310,6 +1311,8 @@ Units used: mm
 "R238","10k","TopLayer","RESC1005X40N","-158.0250","84.3750","180","Resistor - 1%"
 "C454","22uF","TopLayer","CAPC3216X180N","-143.0528","15.5956","90","Non-polarised capacitor"
 "C456","10uF","TopLayer","CAPC2012X135N","-107.5000","43.5000","180","Non-polarised capacitor"
+"C461","100nF","BottomLayer","CAPC0603X33N","-81.7880","43.9928","90","Non-polarised capacitor"
+"C463","100nF","BottomLayer","CAPC0603X33N","-82.9310","43.5356","180","Non-polarised capacitor"
 "C466","10uF","TopLayer","CAPC2012X135N","-43.5000","-19.0500","90","Non-polarised capacitor"
 "C467","10uF","TopLayer","CAPC2012X135N","-37.4750","-21.9250","270","Non-polarised capacitor"
 "C469","1uF","BottomLayer","CAPC1608X87N","-34.1884","-15.7988","270","Non-polarised capacitor"
@@ -1366,6 +1369,7 @@ Units used: mm
 "C540","22uF","TopLayer","CAPC3216X180N","-73.4800","-15.9250","270","Non-polarised capacitor"
 "C541","22uF","TopLayer","CAPC3216X180N","-71.2300","-15.9246","270","Non-polarised capacitor"
 "C542","22uF","TopLayer","CAPC3216X180N","-75.7300","-15.9246","270","Non-polarised capacitor"
+"C219","100nF","BottomLayer","CAPC0603X33N","-39.7750","60.8750","180","Non-polarised capacitor"
 "C20","100nF","TopLayer","CAPC0603X33N","-168.9750","81.8000","270","Non-polarised capacitor"
 "C455a","22uF","TopLayer","CAPC3216X180N","-172.0850","-10.0330","90","Non-polarised capacitor"
 "C455b","22uF","TopLayer","CAPC3216X180N","-174.1678","-10.0076","90","Non-polarised capacitor"
